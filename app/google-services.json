@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718224044215",
+    "project_id": "courseboard-3e9e3",
+    "storage_bucket": "courseboard-3e9e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718224044215:android:01767c650a38db5f62dd32",
+        "android_client_info": {
+          "package_name": "com.example.courseboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718224044215-1ooro2gm5m5vdavmj4r35b9o9eu6ri98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBywV12PckvAlXCyxqYt5mN3AZzee8b05Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718224044215-1ooro2gm5m5vdavmj4r35b9o9eu6ri98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

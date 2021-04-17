@@ -1,0 +1,85 @@
+{
+  "repos": [
+    {
+      "id": 1,
+      "name": "TheAlgorithms / C-Plus-Plus",
+      "type": "Interview Preparation",
+      "language": "C++",
+      "description": " Algorithms for interview prep",
+      "link": "https://github.com/TheAlgorithms/C-Plus-Plus"
+    },
+    {
+      "id": 2,
+      "name": "kamyu104 / LeetCode-Solutions",
+      "type": "Interview Preparation",
+      "language": "C++",
+      "description": "(Weekly Update) Python / Modern C++ Solutions of All 1825 LeetCode Problems",
+      "link": "https://github.com/kamyu104/LeetCode-Solutions"
+    },
+    {
+      "id": 3,
+      "name": "rachitiitr / DataStructures-Algorithms",
+      "type": "Interview Preparation",
+      "language": "C++",
+      "description": "The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!",
+      "link": "https://github.com/rachitiitr/DataStructures-Algorithms"
+    },
+    {
+      "id": 4,
+      "name": "kamyu104 / LintCode",
+      "type": "Interview Preparation",
+      "language": "C++",
+      "description": " C++11 Solutions of All 289 LintCode Problems (No More Updates)",
+      "link": "https://github.com/kamyu104/LintCode"
+    },
+    {
+      "id": 5,
+      "name": "omonimus1 / competitive-programming",
+      "type": "Interview Preparation",
+      "language": "C++",
+      "description": "My competitive programming guide,reading materials, link to system and design interview preparation and my own coding solutions from Codechef, Leetcode,Geeks for Geeks, HackerRank , spoj, codesignal, codebyte, codeblocks and other online judges",
+      "link": "https://github.com/omonimus1/competitive-programming"
+    },
+    {
+      "id": 6,
+      "name": "nishantc1527 / Algorithms",
+      "type": "Interview Preparation",
+      "language": "C++",
+      "description": "A collection of common algorithms and data structures implemented in java, c++, and python.",
+      "link": "https://github.com/nishantc1527 / Algorithms"
+    },
+    {
+      "id": 7,
+      "name": "akashmodak97 / Competitive-Coding-and-Interview-Problems",
+      "type": "Interview Preparation",
+      "language": "C++",
+      "description": "This repo contains some problem solutions from different popular coding platforms like Code Chef, Leet Code, Hacker Blocks,etc.",
+      "link": "https://github.com/akashmodak97 / Competitive-Coding-and-Interview-Problems"
+    },
+    {
+      "id": 8,
+      "name": "deepaktalwardt / interview-prep-cpp",
+      "type": "Interview Preparation",
+      "language": "C++",
+
+      "link": "https://github.com/kamyu104 / LeetCode-Solutions"
+    },
+    {
+      "id": 2,
+      "name": "kamyu104 / LeetCode-Solutions",
+      "type": "Interview Preparation",
+      "language": "C++",
+      "stars": "2.1k",
+      "link": "https://github.com/kamyu104 / LeetCode-Solutions"
+    },
+    {
+      "id": 2,
+      "name": "kamyu104 / LeetCode-Solutions",
+      "type": "Interview Preparation",
+      "language": "C++",
+      "stars": "2.1k",
+      "link": "https://github.com/kamyu104 / LeetCode-Solutions"
+    }
+
+  ]
+}
